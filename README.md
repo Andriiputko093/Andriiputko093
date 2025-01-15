@@ -8,6 +8,7 @@
 ![blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
 ![opengl](https://img.shields.io/badge/openGL-5586A4.svg?style=flat-square&logo=opengl&logoColor=white)
 ![gsap](https://img.shields.io/badge/GreenSock-24A47F.svg?style=flat-square&logo=greensock&logoColor=white)
+![reactjs](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 
 Welcome to my GitHub profile! I am a Senior Full Stack Developer with a passion for creating immersive experiences using Three.js and React-Three-Fiber. I strive to merge creativity with technical expertise to deliver exceptional web applications.
