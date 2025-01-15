@@ -1,6 +1,5 @@
 
 # 👋 Hi, I’m Andrii Putko
-[![](https://github.com/monkeytypegame/monkeytype/blob/master/frontend/static/images/githubbanner2.png?raw=true)](https://monkeytype.com/)
 ![threejs](https://img.shields.io/badge/THREE.js-black?style=flat-square&logo=three.js&logoColor=white)
 ![javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
@@ -10,7 +9,8 @@
 ![gsap](https://img.shields.io/badge/GreenSock-24A47F.svg?style=flat-square&logo=greensock&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 
-Welcome to my GitHub profile! I am a Senior Full Stack Developer with a passion for creating immersive experiences using Three.js and React-Three-Fiber. I strive to merge creativity with technical expertise to deliver exceptional web applications.
+Welcome to my GitHub profile! 
+I am a Senior Full Stack Developer with a passion for creating immersive experiences using Three.js and React-Three-Fiber. I strive to merge creativity with technical expertise to deliver exceptional web applications.
 
 ## 👀 I’m interested in ...
 - Developing interactive 3D applications and visualizations
