@@ -2,12 +2,13 @@
 # 👋 Hi, I’m Andrii Putko
 ![threejs](https://img.shields.io/badge/THREE.js-black?style=flat-square&logo=three.js&logoColor=white)
 ![javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/typescript-24A47F.svg?style=flat-square&logo=typescript&logoColor=white)
 ![html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![css](http://img.shields.io/badge/CSS-2a65f1?style=flat-square&logo=css3&logoColor=white)
 ![blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
 ![reactjs](https://img.shields.io/badge/reactjs-5586A4.svg?style=flat-square&logo=opengl&logoColor=white)
 ![nextjs](http://img.shields.io/badge/-nextjs-fcd400?style=flat-square&logo=nextjs&logoColor=black)
-![gsap](https://img.shields.io/badge/GreenSock-24A47F.svg?style=flat-square&logo=greensock&logoColor=white)
+![gsap](https://img.shields.io/badge/gsap-24A47F.svg?style=flat-square&logo=gsap&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 
 Welcome to my GitHub profile! 
