@@ -11,8 +11,10 @@
 ![gsap](https://img.shields.io/badge/gsap-24A47F.svg?style=flat-square&logo=gsap&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 
-Welcome to my GitHub profile! 
-I am a Senior Full Stack Developer with a passion for creating immersive experiences using Three.js and React-Three-Fiber. I strive to merge creativity with technical expertise to deliver exceptional web applications.
+Welcome to my GitHub profile!
+
+I am a Full Stack Developer with a passion for creating interactive, user-friendly web applications. With expertise in JavaScript, TypeScript, React, Next.js, Node.js, and Three.js, I love bringing ideas to life and delivering compelling user experiences.
+Moreover I have special in web3D field, I'm confident for three.js, webgl, R3F and other computer graphics techniques.
 
 ## 👀 I’m interested in ...
 - Developing interactive 3D applications and visualizations
